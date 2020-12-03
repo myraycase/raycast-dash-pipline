@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/ruby -w
 
 # Required parameters:
 # @raycast.title Dash document
@@ -15,4 +15,5 @@
 
 # @raycast.argument1 {"type":"text", "placeholder": "Query" }
 
-open dash://${1}
+require 'rexml/document'
+include REXML
