@@ -1,1 +1,503 @@
-<?xml version="1.0"?><output><items><item uid="dash-advanced://go/Method/file:///Users/moli/Library/Application%20Support/Dash/DocSets/JavaScript/JavaScript.docset/Contents/Resources/Documents/developer.mozilla.org/en-US/docs/Web/API/History/go.html" arg="0" autocomplete="go"><title>go</title><text type="copy">go</text><text type="largetype">go</text><subtitle mod="cmd">Open &quot;go&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go&quot; to clipboard</subtitle><subtitle>JavaScript - History.go</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e72b678a9d0dc354d848f87f7d536242.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/skavsvsh/developer.mozilla.org/en-US/docs/Web/API/History/go.html</quicklookurl></item><item uid="dash-advanced://Go/Type/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Go/Go.docset/Contents/Resources/Documents/godoc.org/golang.org/x/tools/go/ssa.html%23//dash_ref_Go/Type/Go/0" arg="1" autocomplete="Go"><title>Go</title><text type="copy">Go</text><text type="largetype">Go</text><subtitle mod="cmd">Open &quot;Go&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Go&quot; to clipboard</subtitle><subtitle>Go - golang.org/x/tools/go/ssa.Go</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/4b3592d25f1bd44118feee39ed162d2f.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/taoqungt/godoc.org/golang.org/x/tools/go/ssa.html#//dash_ref_Go/Type/Go/0</quicklookurl></item><item uid="dash-advanced://go/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go.html" arg="2" autocomplete="go"><title>go</title><text type="copy">go</text><text type="largetype">go</text><subtitle mod="cmd">Open &quot;go&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go&quot; to clipboard</subtitle><subtitle>TLDR pages - go</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go.html</quicklookurl></item><item uid="dash-advanced://google_perftools_profiles/Directive/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Nginx/Nginx.docset/Contents/Resources/Documents/nginx.org/en/docs/ngx_google_perftools_module.html%23//apple_ref/Directive/google%255Fperftools%255Fprofiles" arg="3" autocomplete="google_perftools_profiles"><title>google_perftools_profiles</title><text type="copy">google_perftools_profiles</text><text type="largetype">google_perftools_profiles</text><subtitle mod="cmd">Open &quot;google_perftools_profiles&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;google_perftools_profiles&quot; to clipboard</subtitle><subtitle>Nginx - ngx_google_perftools_module</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/79ce9195a652f045ed800bcbca64d828.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/upaqvewa/nginx.org/en/docs/ngx_google_perftools_module.html#//apple_ref/Directive/google%5Fperftools%5Fprofiles</quicklookurl></item><item uid="dash-advanced://goto/Function/file:///Users/moli/Library/Application%20Support/Dash/DocSets/PHP/PHP.docset/Contents/Resources/Documents/www.php.net/manual/en/control-structures.goto.html" arg="4" autocomplete="goto"><title>goto</title><text type="copy">goto</text><text type="largetype">goto</text><subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle><subtitle>PHP - goto</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/2abbde3791a45d749e083d7e2fc52493.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/xqhqwnlq/www.php.net/manual/en/control-structures.goto.html</quicklookurl></item><item uid="dash-advanced://god/Function/dash-man-page://load?query=god(1)" arg="5" autocomplete="god"><title>god</title><text type="copy">god</text><text type="largetype">god</text><subtitle mod="cmd">Open &quot;god&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;god&quot; to clipboard</subtitle><subtitle>Man Pages - god(1)</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/3ce915469ace86c9e382291e027845e6.png</icon></item><item uid="dash-advanced://goto/Function/dash-man-page://load?query=builtin(1)" arg="6" autocomplete="goto"><title>goto</title><text type="copy">goto</text><text type="largetype">goto</text><subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle><subtitle>Man Pages - builtin(1) and 1 other</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/3ce915469ace86c9e382291e027845e6.png</icon></item><item uid="dash-advanced://Google%20Compute%20Engine/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/machine/drivers/gce.html" arg="7" autocomplete="Google Compute Engine"><title>Google Compute Engine</title><text type="copy">Google Compute Engine</text><text type="largetype">Google Compute Engine</text><subtitle mod="cmd">Open &quot;Google Compute Engine&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Google Compute Engine&quot; to clipboard</subtitle><subtitle>Docker - Google Compute Engine</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/machine/drivers/gce.html</quicklookurl></item><item uid="dash-advanced://Google%20Cloud%20Logging%20driver/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/config/containers/logging/gcplogs.html" arg="8" autocomplete="Google Cloud Logging driver"><title>Google Cloud Logging driver</title><text type="copy">Google Cloud Logging driver</text><text type="largetype">Google Cloud Logging driver</text><subtitle mod="cmd">Open &quot;Google Cloud Logging driver&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Google Cloud Logging driver&quot; to clipboard</subtitle><subtitle>Docker - Google Cloud Logging driver</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/config/containers/logging/gcplogs.html</quicklookurl></item><item uid="dash-advanced://Google%20Cloud%20Storage%20driver/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/registry/storage-drivers/gcs.html" arg="9" autocomplete="Google Cloud Storage driver"><title>Google Cloud Storage driver</title><text type="copy">Google Cloud Storage driver</text><text type="largetype">Google Cloud Storage driver</text><subtitle mod="cmd">Open &quot;Google Cloud Storage driver&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Google Cloud Storage driver&quot; to clipboard</subtitle><subtitle>Docker - Google Cloud Storage driver</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/registry/storage-drivers/gcs.html</quicklookurl></item><item uid="dash-advanced://Goal%20-%20Networking%20using%20the%20host%20network/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/network/network-tutorial-host.html%23//dash_ref_382/Section/Goal/0" arg="10" autocomplete="Goal - Networking using the host network"><title>Goal - Networking using the host network</title><text type="copy">Goal - Networking using the host network</text><text type="largetype">Goal - Networking using the host network</text><subtitle mod="cmd">Open &quot;Goal - Networking using the host network&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Goal - Networking using the host network&quot; to clipboard</subtitle><subtitle>Docker - Goal - Networking using the host network</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/network/network-tutorial-host.html#//dash_ref_382/Section/Goal/0</quicklookurl></item><item uid="dash-advanced://Goal%20-%20Networking%20using%20a%20macvlan%20network/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/network/network-tutorial-macvlan.html%23//dash_ref_394/Section/Goal/0" arg="11" autocomplete="Goal - Networking using a macvlan network"><title>Goal - Networking using a macvlan network</title><text type="copy">Goal - Networking using a macvlan network</text><text type="largetype">Goal - Networking using a macvlan network</text><subtitle mod="cmd">Open &quot;Goal - Networking using a macvlan network&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Goal - Networking using a macvlan network&quot; to clipboard</subtitle><subtitle>Docker - Goal - Networking using a macvlan network</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/network/network-tutorial-macvlan.html#//dash_ref_394/Section/Goal/0</quicklookurl></item><item uid="dash-advanced://Good%20use%20cases%20for%20volumes%20-%20Manage%20data%20in%20Docker/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/storage.html%23//dash_ref_7/Section/Good%2520use%2520cases%2520for%2520volumes/0" arg="12" autocomplete="Good use cases for volumes - Manage data in Docker"><title>Good use cases for volumes - Manage data in Docker</title><text type="copy">Good use cases for volumes - Manage data in Docker</text><text type="largetype">Good use cases for volumes - Manage data in Docker</text><subtitle mod="cmd">Open &quot;Good use cases for volumes - Manage data in Docker&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Good use cases for volumes - Manage data in Docker&quot; to clipboard</subtitle><subtitle>Docker - Good use cases for volumes - Manage data in Docker</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/storage.html#//dash_ref_7/Section/Good%20use%20cases%20for%20volumes/0</quicklookurl></item><item uid="dash-advanced://Good%20use%20cases%20for%20bind%20mounts%20-%20Manage%20data%20in%20Docker/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/storage.html%23//dash_ref_8/Section/Good%2520use%2520cases%2520for%2520bind%2520mounts/0" arg="13" autocomplete="Good use cases for bind mounts - Manage data in Docker"><title>Good use cases for bind mounts - Manage data in Docker</title><text type="copy">Good use cases for bind mounts - Manage data in Docker</text><text type="largetype">Good use cases for bind mounts - Manage data in Docker</text><subtitle mod="cmd">Open &quot;Good use cases for bind mounts - Manage data in Docker&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Good use cases for bind mounts - Manage data in Docker&quot; to clipboard</subtitle><subtitle>Docker - Good use cases for bind mounts - Manage data in Docker</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/storage.html#//dash_ref_8/Section/Good%20use%20cases%20for%20bind%20mounts/0</quicklookurl></item><item uid="dash-advanced://Good%20use%20cases%20for%20tmpfs%20mounts%20-%20Manage%20data%20in%20Docker/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/storage.html%23//dash_ref_9/Section/Good%2520use%2520cases%2520for%2520tmpfs%2520mounts/0" arg="14" autocomplete="Good use cases for tmpfs mounts - Manage data in Docker"><title>Good use cases for tmpfs mounts - Manage data in Docker</title><text type="copy">Good use cases for tmpfs mounts - Manage data in Docker</text><text type="largetype">Good use cases for tmpfs mounts - Manage data in Docker</text><subtitle mod="cmd">Open &quot;Good use cases for tmpfs mounts - Manage data in Docker&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Good use cases for tmpfs mounts - Manage data in Docker&quot; to clipboard</subtitle><subtitle>Docker - Good use cases for tmpfs mounts - Manage data in Docker</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/storage.html#//dash_ref_9/Section/Good%20use%20cases%20for%20tmpfs%20mounts/0</quicklookurl></item><item uid="dash-advanced://gotpointercapture(Document)/Event/file:///Users/moli/Library/Application%20Support/Dash/DocSets/JavaScript/JavaScript.docset/Contents/Resources/Documents/developer.mozilla.org/en-US/docs/Web/API/document/gotpointercapture_event.html" arg="15" autocomplete="gotpointercapture(Document)"><title>gotpointercapture(Document)</title><text type="copy">gotpointercapture(Document)</text><text type="largetype">gotpointercapture(Document)</text><subtitle mod="cmd">Open &quot;gotpointercapture(Document)&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gotpointercapture(Document)&quot; to clipboard</subtitle><subtitle>JavaScript - gotpointercapture (Document)</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/79c266d246d5cb501f42492634253245.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/skavsvsh/developer.mozilla.org/en-US/docs/Web/API/document/gotpointercapture_event.html</quicklookurl></item><item uid="dash-advanced://gotpointercapture(HTMLElement)/Event/file:///Users/moli/Library/Application%20Support/Dash/DocSets/JavaScript/JavaScript.docset/Contents/Resources/Documents/developer.mozilla.org/en-US/docs/Web/API/HTMLelement/gotpointercapture_event.html" arg="16" autocomplete="gotpointercapture(HTMLElement)"><title>gotpointercapture(HTMLElement)</title><text type="copy">gotpointercapture(HTMLElement)</text><text type="largetype">gotpointercapture(HTMLElement)</text><subtitle mod="cmd">Open &quot;gotpointercapture(HTMLElement)&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gotpointercapture(HTMLElement)&quot; to clipboard</subtitle><subtitle>JavaScript - gotpointercapture (HTMLElement)</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/79c266d246d5cb501f42492634253245.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/skavsvsh/developer.mozilla.org/en-US/docs/Web/API/HTMLelement/gotpointercapture_event.html</quicklookurl></item><item uid="dash-advanced://goto/Keyword/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C++/C++.docset/Contents/Resources/Documents/en.cppreference.com/w/cpp/keyword/goto.html" arg="17" autocomplete="goto"><title>goto</title><text type="copy">goto</text><text type="largetype">goto</text><subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle><subtitle>C++ - goto</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/bb04662f5149196fee3559c6d5da61dd.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/sgcbtxvt/en.cppreference.com/w/cpp/keyword/goto.html</quicklookurl></item><item uid="dash-advanced://goto%20statement/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C++/C++.docset/Contents/Resources/Documents/en.cppreference.com/w/cpp/language/goto.html" arg="18" autocomplete="goto statement"><title>goto statement</title><text type="copy">goto statement</text><text type="largetype">goto statement</text><subtitle mod="cmd">Open &quot;goto statement&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goto statement&quot; to clipboard</subtitle><subtitle>C++ - goto statement</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/10db2a9fb5f26a2cf880a0a763caa10c.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/sgcbtxvt/en.cppreference.com/w/cpp/language/goto.html</quicklookurl></item><item uid="dash-advanced://goto/Keyword/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C/C.docset/Contents/Resources/Documents/en.cppreference.com/w/c/keyword/goto.html" arg="19" autocomplete="goto"><title>goto</title><text type="copy">goto</text><text type="largetype">goto</text><subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle><subtitle>C - goto</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/76c074f6034f744bf9e1ef8778909349.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/nlbhguud/en.cppreference.com/w/c/keyword/goto.html</quicklookurl></item><item uid="dash-advanced://goto%20statement/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C/C.docset/Contents/Resources/Documents/en.cppreference.com/w/c/language/goto.html" arg="20" autocomplete="goto statement"><title>goto statement</title><text type="copy">goto statement</text><text type="largetype">goto statement</text><subtitle mod="cmd">Open &quot;goto statement&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goto statement&quot; to clipboard</subtitle><subtitle>C - goto statement</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/66f330898d52daa84561d32486bf8ab1.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/nlbhguud/en.cppreference.com/w/c/language/goto.html</quicklookurl></item><item uid="dash-advanced://Going%20further/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Rust/Rust.docset/Contents/Resources/Documents/doc.rust-lang.org/1.48.0/cargo/getting-started/first-steps.html%23//dash_ref_46413/Section/Going%2520further/0" arg="21" autocomplete="Going further"><title>Going further</title><text type="copy">Going further</text><text type="largetype">Going further</text><subtitle mod="cmd">Open &quot;Going further&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Going further&quot; to clipboard</subtitle><subtitle>Rust - Going further</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/19f82a7dcd4ec9c593c35d0db353d3da.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/gtjopxwf/doc.rust-lang.org/1.48.0/cargo/getting-started/first-steps.html#//dash_ref_46413/Section/Going%20further/0</quicklookurl></item><item uid="dash-advanced://GoStmt/Type/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Go/Go.docset/Contents/Resources/Documents/golang.org/pkg/go/ast/index.html%23//dash_ref_GoStmt/Type/GoStmt/0" arg="22" autocomplete="GoStmt"><title>GoStmt</title><text type="copy">GoStmt</text><text type="largetype">GoStmt</text><subtitle mod="cmd">Open &quot;GoStmt&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;GoStmt&quot; to clipboard</subtitle><subtitle>Go - go/ast.GoStmt</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/4b3592d25f1bd44118feee39ed162d2f.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/taoqungt/golang.org/pkg/go/ast/index.html#//dash_ref_GoStmt/Type/GoStmt/0</quicklookurl></item><item uid="dash-advanced://go-list/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-list.html" arg="23" autocomplete="go-list"><title>go-list</title><text type="copy">go-list</text><text type="largetype">go-list</text><subtitle mod="cmd">Open &quot;go-list&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-list&quot; to clipboard</subtitle><subtitle>TLDR pages - go_list</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-list.html</quicklookurl></item><item uid="dash-advanced://gox/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gox.html" arg="24" autocomplete="gox"><title>gox</title><text type="copy">gox</text><text type="largetype">gox</text><subtitle mod="cmd">Open &quot;gox&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gox&quot; to clipboard</subtitle><subtitle>TLDR pages - gox</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gox.html</quicklookurl></item><item uid="dash-advanced://gops/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gops.html" arg="25" autocomplete="gops"><title>gops</title><text type="copy">gops</text><text type="largetype">gops</text><subtitle mod="cmd">Open &quot;gops&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gops&quot; to clipboard</subtitle><subtitle>TLDR pages - gops</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gops.html</quicklookurl></item><item uid="dash-advanced://godoc/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/godoc.html" arg="26" autocomplete="godoc"><title>godoc</title><text type="copy">godoc</text><text type="largetype">godoc</text><subtitle mod="cmd">Open &quot;godoc&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;godoc&quot; to clipboard</subtitle><subtitle>TLDR pages - godoc</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/godoc.html</quicklookurl></item><item uid="dash-advanced://godot/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/godot.html" arg="27" autocomplete="godot"><title>godot</title><text type="copy">godot</text><text type="largetype">godot</text><subtitle mod="cmd">Open &quot;godot&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;godot&quot; to clipboard</subtitle><subtitle>TLDR pages - godot</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/godot.html</quicklookurl></item><item uid="dash-advanced://gofmt/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gofmt.html" arg="28" autocomplete="gofmt"><title>gofmt</title><text type="copy">gofmt</text><text type="largetype">gofmt</text><subtitle mod="cmd">Open &quot;gofmt&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gofmt&quot; to clipboard</subtitle><subtitle>TLDR pages - gofmt</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gofmt.html</quicklookurl></item><item uid="dash-advanced://gotty/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gotty.html" arg="29" autocomplete="gotty"><title>gotty</title><text type="copy">gotty</text><text type="largetype">gotty</text><subtitle mod="cmd">Open &quot;gotty&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gotty&quot; to clipboard</subtitle><subtitle>TLDR pages - gotty</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gotty.html</quicklookurl></item><item uid="dash-advanced://go-bug/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-bug.html" arg="30" autocomplete="go-bug"><title>go-bug</title><text type="copy">go-bug</text><text type="largetype">go-bug</text><subtitle mod="cmd">Open &quot;go-bug&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-bug&quot; to clipboard</subtitle><subtitle>TLDR pages - go_bug</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-bug.html</quicklookurl></item><item uid="dash-advanced://go-doc/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-doc.html" arg="31" autocomplete="go-doc"><title>go-doc</title><text type="copy">go-doc</text><text type="largetype">go-doc</text><subtitle mod="cmd">Open &quot;go-doc&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-doc&quot; to clipboard</subtitle><subtitle>TLDR pages - go_doc</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-doc.html</quicklookurl></item><item uid="dash-advanced://go-env/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-env.html" arg="32" autocomplete="go-env"><title>go-env</title><text type="copy">go-env</text><text type="largetype">go-env</text><subtitle mod="cmd">Open &quot;go-env&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-env&quot; to clipboard</subtitle><subtitle>TLDR pages - go_env</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-env.html</quicklookurl></item><item uid="dash-advanced://go-fix/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-fix.html" arg="33" autocomplete="go-fix"><title>go-fix</title><text type="copy">go-fix</text><text type="largetype">go-fix</text><subtitle mod="cmd">Open &quot;go-fix&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-fix&quot; to clipboard</subtitle><subtitle>TLDR pages - go_fix</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-fix.html</quicklookurl></item><item uid="dash-advanced://go-mod/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-mod.html" arg="34" autocomplete="go-mod"><title>go-mod</title><text type="copy">go-mod</text><text type="largetype">go-mod</text><subtitle mod="cmd">Open &quot;go-mod&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-mod&quot; to clipboard</subtitle><subtitle>TLDR pages - go_mod</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-mod.html</quicklookurl></item><item uid="dash-advanced://gopass/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gopass.html" arg="35" autocomplete="gopass"><title>gopass</title><text type="copy">gopass</text><text type="largetype">gopass</text><subtitle mod="cmd">Open &quot;gopass&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gopass&quot; to clipboard</subtitle><subtitle>TLDR pages - gopass</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gopass.html</quicklookurl></item><item uid="dash-advanced://gource/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gource.html" arg="36" autocomplete="gource"><title>gource</title><text type="copy">gource</text><text type="largetype">gource</text><subtitle mod="cmd">Open &quot;gource&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gource&quot; to clipboard</subtitle><subtitle>TLDR pages - gource</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gource.html</quicklookurl></item><item uid="dash-advanced://googler/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/googler.html" arg="37" autocomplete="googler"><title>googler</title><text type="copy">googler</text><text type="largetype">googler</text><subtitle mod="cmd">Open &quot;googler&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;googler&quot; to clipboard</subtitle><subtitle>TLDR pages - googler</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/googler.html</quicklookurl></item><item uid="dash-advanced://go-build/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-build.html" arg="38" autocomplete="go-build"><title>go-build</title><text type="copy">go-build</text><text type="largetype">go-build</text><subtitle mod="cmd">Open &quot;go-build&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-build&quot; to clipboard</subtitle><subtitle>TLDR pages - go_build</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-build.html</quicklookurl></item><item uid="dash-advanced://go-clean/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-clean.html" arg="39" autocomplete="go-clean"><title>go-clean</title><text type="copy">go-clean</text><text type="largetype">go-clean</text><subtitle mod="cmd">Open &quot;go-clean&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-clean&quot; to clipboard</subtitle><subtitle>TLDR pages - go_clean</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-clean.html</quicklookurl></item><item uid="dash-advanced://goreload/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/goreload.html" arg="40" autocomplete="goreload"><title>goreload</title><text type="copy">goreload</text><text type="largetype">goreload</text><subtitle mod="cmd">Open &quot;goreload&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goreload&quot; to clipboard</subtitle><subtitle>TLDR pages - goreload</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/goreload.html</quicklookurl></item><item uid="dash-advanced://gocryptfs/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gocryptfs.html" arg="41" autocomplete="gocryptfs"><title>gocryptfs</title><text type="copy">gocryptfs</text><text type="largetype">gocryptfs</text><subtitle mod="cmd">Open &quot;gocryptfs&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;gocryptfs&quot; to clipboard</subtitle><subtitle>TLDR pages - gocryptfs</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gocryptfs.html</quicklookurl></item><item uid="dash-advanced://goimports/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/goimports.html" arg="42" autocomplete="goimports"><title>goimports</title><text type="copy">goimports</text><text type="largetype">goimports</text><subtitle mod="cmd">Open &quot;goimports&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;goimports&quot; to clipboard</subtitle><subtitle>TLDR pages - goimports</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/goimports.html</quicklookurl></item><item uid="dash-advanced://go-version/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-version.html" arg="43" autocomplete="go-version"><title>go-version</title><text type="copy">go-version</text><text type="largetype">go-version</text><subtitle mod="cmd">Open &quot;go-version&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-version&quot; to clipboard</subtitle><subtitle>TLDR pages - go_version</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-version.html</quicklookurl></item><item uid="dash-advanced://go-generate/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-generate.html" arg="44" autocomplete="go-generate"><title>go-generate</title><text type="copy">go-generate</text><text type="largetype">go-generate</text><subtitle mod="cmd">Open &quot;go-generate&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;go-generate&quot; to clipboard</subtitle><subtitle>TLDR pages - go_generate</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-generate.html</quicklookurl></item><item uid="dash-advanced://Mongo/Class/file:///Users/moli/Library/Application%20Support/Dash/DocSets/PHP/PHP.docset/Contents/Resources/Documents/www.php.net/manual/en/class.mongo.html" arg="45" autocomplete="Mongo"><title>Mongo</title><text type="copy">Mongo</text><text type="largetype">Mongo</text><subtitle mod="cmd">Open &quot;Mongo&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Mongo&quot; to clipboard</subtitle><subtitle>PHP - Mongo</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/a302d804468ab624a7f42a2b07badfbd.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/xqhqwnlq/www.php.net/manual/en/class.mongo.html</quicklookurl></item><item uid="dash-advanced://STRALGO/Function/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Redis/Redis.docset/Contents/Resources/Documents/commands/stralgo.html" arg="46" autocomplete="STRALGO"><title>STRALGO</title><text type="copy">STRALGO</text><text type="largetype">STRALGO</text><subtitle mod="cmd">Open &quot;STRALGO&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;STRALGO&quot; to clipboard</subtitle><subtitle>Redis - stralgo</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/333a19eceb3d319a6d4e6c18ebc291be.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/meshcnve/commands/stralgo.html</quicklookurl></item><item uid="dash-advanced://Quickstart:%20Compose%20and%20Django/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/compose/django.html" arg="47" autocomplete="Quickstart: Compose and Django"><title>Quickstart: Compose and Django</title><text type="copy">Quickstart: Compose and Django</text><text type="largetype">Quickstart: Compose and Django</text><subtitle mod="cmd">Open &quot;Quickstart: Compose and Django&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;Quickstart: Compose and Django&quot; to clipboard</subtitle><subtitle>Docker - Quickstart: Compose and Django</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/compose/django.html</quicklookurl></item><item uid="dash-advanced://More%20Compose%20documentation%20-%20Quickstart:%20Compose%20and%20Django/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/compose/django.html%23//dash_ref_570/Section/More%2520Compose%2520documentation/0" arg="48" autocomplete="More Compose documentation - Quickstart: Compose and Django"><title>More Compose documentation - Quickstart: Compose and Django</title><text type="copy">More Compose documentation - Quickstart: Compose and Django</text><text type="largetype">More Compose documentation - Quickstart: Compose and Django</text><subtitle mod="cmd">Open &quot;More Compose documentation - Quickstart: Compose and Django&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;More Compose documentation - Quickstart: Compose and Django&quot; to clipboard</subtitle><subtitle>Docker - More Compose documentation - Quickstart: Compose and Django</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/compose/django.html#//dash_ref_570/Section/More%20Compose%20documentation/0</quicklookurl></item><item uid="dash-advanced://String%20Algo/Library/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Boost/Boost.docset/Contents/Resources/Documents/boost/doc/html/string_algo.html" arg="49" autocomplete="String Algo"><title>String Algo</title><text type="copy">String Algo</text><text type="largetype">String Algo</text><subtitle mod="cmd">Open &quot;String Algo&quot; in browser</subtitle><subtitle mod="alt">Copy &quot;String Algo&quot; to clipboard</subtitle><subtitle>Boost - String Algo</subtitle><icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/04bbb9f9f9eaf868e46f32ec3de9ec00.png</icon><quicklookurl>http://127.0.0.1:51737/Dash/aldpddqa/boost/doc/html/string_algo.html</quicklookurl></item></items></output>
+<?xml version="1.0"?>
+<output>
+    <items>
+        <item uid="dash-advanced://go/Method/file:///Users/moli/Library/Application%20Support/Dash/DocSets/JavaScript/JavaScript.docset/Contents/Resources/Documents/developer.mozilla.org/en-US/docs/Web/API/History/go.html" arg="0" autocomplete="go">
+            <title>go</title>
+            <text type="copy">go</text>
+            <text type="largetype">go</text>
+            <subtitle mod="cmd">Open &quot;go&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go&quot; to clipboard</subtitle>
+            <subtitle>JavaScript - History.go</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e72b678a9d0dc354d848f87f7d536242.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/skavsvsh/developer.mozilla.org/en-US/docs/Web/API/History/go.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Go/Type/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Go/Go.docset/Contents/Resources/Documents/godoc.org/golang.org/x/tools/go/ssa.html%23//dash_ref_Go/Type/Go/0" arg="1" autocomplete="Go">
+            <title>Go</title>
+            <text type="copy">Go</text>
+            <text type="largetype">Go</text>
+            <subtitle mod="cmd">Open &quot;Go&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Go&quot; to clipboard</subtitle>
+            <subtitle>Go - golang.org/x/tools/go/ssa.Go</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/4b3592d25f1bd44118feee39ed162d2f.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/taoqungt/godoc.org/golang.org/x/tools/go/ssa.html#//dash_ref_Go/Type/Go/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go.html" arg="2" autocomplete="go">
+            <title>go</title>
+            <text type="copy">go</text>
+            <text type="largetype">go</text>
+            <subtitle mod="cmd">Open &quot;go&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://google_perftools_profiles/Directive/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Nginx/Nginx.docset/Contents/Resources/Documents/nginx.org/en/docs/ngx_google_perftools_module.html%23//apple_ref/Directive/google%255Fperftools%255Fprofiles" arg="3" autocomplete="google_perftools_profiles">
+            <title>google_perftools_profiles</title>
+            <text type="copy">google_perftools_profiles</text>
+            <text type="largetype">google_perftools_profiles</text>
+            <subtitle mod="cmd">Open &quot;google_perftools_profiles&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;google_perftools_profiles&quot; to clipboard</subtitle>
+            <subtitle>Nginx - ngx_google_perftools_module</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/79ce9195a652f045ed800bcbca64d828.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/upaqvewa/nginx.org/en/docs/ngx_google_perftools_module.html#//apple_ref/Directive/google%5Fperftools%5Fprofiles</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goto/Function/file:///Users/moli/Library/Application%20Support/Dash/DocSets/PHP/PHP.docset/Contents/Resources/Documents/www.php.net/manual/en/control-structures.goto.html" arg="4" autocomplete="goto">
+            <title>goto</title>
+            <text type="copy">goto</text>
+            <text type="largetype">goto</text>
+            <subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle>
+            <subtitle>PHP - goto</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/2abbde3791a45d749e083d7e2fc52493.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/xqhqwnlq/www.php.net/manual/en/control-structures.goto.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://god/Function/dash-man-page://load?query=god(1)" arg="5" autocomplete="god">
+            <title>god</title>
+            <text type="copy">god</text>
+            <text type="largetype">god</text>
+            <subtitle mod="cmd">Open &quot;god&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;god&quot; to clipboard</subtitle>
+            <subtitle>Man Pages - god(1)</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/3ce915469ace86c9e382291e027845e6.png</icon>
+        </item>
+        <item uid="dash-advanced://goto/Function/dash-man-page://load?query=builtin(1)" arg="6" autocomplete="goto">
+            <title>goto</title>
+            <text type="copy">goto</text>
+            <text type="largetype">goto</text>
+            <subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle>
+            <subtitle>Man Pages - builtin(1) and 1 other</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/3ce915469ace86c9e382291e027845e6.png</icon>
+        </item>
+        <item uid="dash-advanced://Google%20Compute%20Engine/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/machine/drivers/gce.html" arg="7" autocomplete="Google Compute Engine">
+            <title>Google Compute Engine</title>
+            <text type="copy">Google Compute Engine</text>
+            <text type="largetype">Google Compute Engine</text>
+            <subtitle mod="cmd">Open &quot;Google Compute Engine&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Google Compute Engine&quot; to clipboard</subtitle>
+            <subtitle>Docker - Google Compute Engine</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/machine/drivers/gce.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Google%20Cloud%20Logging%20driver/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/config/containers/logging/gcplogs.html" arg="8" autocomplete="Google Cloud Logging driver">
+            <title>Google Cloud Logging driver</title>
+            <text type="copy">Google Cloud Logging driver</text>
+            <text type="largetype">Google Cloud Logging driver</text>
+            <subtitle mod="cmd">Open &quot;Google Cloud Logging driver&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Google Cloud Logging driver&quot; to clipboard</subtitle>
+            <subtitle>Docker - Google Cloud Logging driver</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/config/containers/logging/gcplogs.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Google%20Cloud%20Storage%20driver/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/registry/storage-drivers/gcs.html" arg="9" autocomplete="Google Cloud Storage driver">
+            <title>Google Cloud Storage driver</title>
+            <text type="copy">Google Cloud Storage driver</text>
+            <text type="largetype">Google Cloud Storage driver</text>
+            <subtitle mod="cmd">Open &quot;Google Cloud Storage driver&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Google Cloud Storage driver&quot; to clipboard</subtitle>
+            <subtitle>Docker - Google Cloud Storage driver</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/registry/storage-drivers/gcs.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Goal%20-%20Networking%20using%20the%20host%20network/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/network/network-tutorial-host.html%23//dash_ref_382/Section/Goal/0" arg="10" autocomplete="Goal - Networking using the host network">
+            <title>Goal - Networking using the host network</title>
+            <text type="copy">Goal - Networking using the host network</text>
+            <text type="largetype">Goal - Networking using the host network</text>
+            <subtitle mod="cmd">Open &quot;Goal - Networking using the host network&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Goal - Networking using the host network&quot; to clipboard</subtitle>
+            <subtitle>Docker - Goal - Networking using the host network</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/network/network-tutorial-host.html#//dash_ref_382/Section/Goal/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Goal%20-%20Networking%20using%20a%20macvlan%20network/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/network/network-tutorial-macvlan.html%23//dash_ref_394/Section/Goal/0" arg="11" autocomplete="Goal - Networking using a macvlan network">
+            <title>Goal - Networking using a macvlan network</title>
+            <text type="copy">Goal - Networking using a macvlan network</text>
+            <text type="largetype">Goal - Networking using a macvlan network</text>
+            <subtitle mod="cmd">Open &quot;Goal - Networking using a macvlan network&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Goal - Networking using a macvlan network&quot; to clipboard</subtitle>
+            <subtitle>Docker - Goal - Networking using a macvlan network</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/network/network-tutorial-macvlan.html#//dash_ref_394/Section/Goal/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Good%20use%20cases%20for%20volumes%20-%20Manage%20data%20in%20Docker/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/storage.html%23//dash_ref_7/Section/Good%2520use%2520cases%2520for%2520volumes/0" arg="12" autocomplete="Good use cases for volumes - Manage data in Docker">
+            <title>Good use cases for volumes - Manage data in Docker</title>
+            <text type="copy">Good use cases for volumes - Manage data in Docker</text>
+            <text type="largetype">Good use cases for volumes - Manage data in Docker</text>
+            <subtitle mod="cmd">Open &quot;Good use cases for volumes - Manage data in Docker&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Good use cases for volumes - Manage data in Docker&quot; to clipboard</subtitle>
+            <subtitle>Docker - Good use cases for volumes - Manage data in Docker</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/storage.html#//dash_ref_7/Section/Good%20use%20cases%20for%20volumes/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Good%20use%20cases%20for%20bind%20mounts%20-%20Manage%20data%20in%20Docker/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/storage.html%23//dash_ref_8/Section/Good%2520use%2520cases%2520for%2520bind%2520mounts/0" arg="13" autocomplete="Good use cases for bind mounts - Manage data in Docker">
+            <title>Good use cases for bind mounts - Manage data in Docker</title>
+            <text type="copy">Good use cases for bind mounts - Manage data in Docker</text>
+            <text type="largetype">Good use cases for bind mounts - Manage data in Docker</text>
+            <subtitle mod="cmd">Open &quot;Good use cases for bind mounts - Manage data in Docker&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Good use cases for bind mounts - Manage data in Docker&quot; to clipboard</subtitle>
+            <subtitle>Docker - Good use cases for bind mounts - Manage data in Docker</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/storage.html#//dash_ref_8/Section/Good%20use%20cases%20for%20bind%20mounts/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Good%20use%20cases%20for%20tmpfs%20mounts%20-%20Manage%20data%20in%20Docker/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/storage.html%23//dash_ref_9/Section/Good%2520use%2520cases%2520for%2520tmpfs%2520mounts/0" arg="14" autocomplete="Good use cases for tmpfs mounts - Manage data in Docker">
+            <title>Good use cases for tmpfs mounts - Manage data in Docker</title>
+            <text type="copy">Good use cases for tmpfs mounts - Manage data in Docker</text>
+            <text type="largetype">Good use cases for tmpfs mounts - Manage data in Docker</text>
+            <subtitle mod="cmd">Open &quot;Good use cases for tmpfs mounts - Manage data in Docker&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Good use cases for tmpfs mounts - Manage data in Docker&quot; to clipboard</subtitle>
+            <subtitle>Docker - Good use cases for tmpfs mounts - Manage data in Docker</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/storage.html#//dash_ref_9/Section/Good%20use%20cases%20for%20tmpfs%20mounts/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gotpointercapture(Document)/Event/file:///Users/moli/Library/Application%20Support/Dash/DocSets/JavaScript/JavaScript.docset/Contents/Resources/Documents/developer.mozilla.org/en-US/docs/Web/API/document/gotpointercapture_event.html" arg="15" autocomplete="gotpointercapture(Document)">
+            <title>gotpointercapture(Document)</title>
+            <text type="copy">gotpointercapture(Document)</text>
+            <text type="largetype">gotpointercapture(Document)</text>
+            <subtitle mod="cmd">Open &quot;gotpointercapture(Document)&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gotpointercapture(Document)&quot; to clipboard</subtitle>
+            <subtitle>JavaScript - gotpointercapture (Document)</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/79c266d246d5cb501f42492634253245.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/skavsvsh/developer.mozilla.org/en-US/docs/Web/API/document/gotpointercapture_event.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gotpointercapture(HTMLElement)/Event/file:///Users/moli/Library/Application%20Support/Dash/DocSets/JavaScript/JavaScript.docset/Contents/Resources/Documents/developer.mozilla.org/en-US/docs/Web/API/HTMLelement/gotpointercapture_event.html" arg="16" autocomplete="gotpointercapture(HTMLElement)">
+            <title>gotpointercapture(HTMLElement)</title>
+            <text type="copy">gotpointercapture(HTMLElement)</text>
+            <text type="largetype">gotpointercapture(HTMLElement)</text>
+            <subtitle mod="cmd">Open &quot;gotpointercapture(HTMLElement)&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gotpointercapture(HTMLElement)&quot; to clipboard</subtitle>
+            <subtitle>JavaScript - gotpointercapture (HTMLElement)</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/79c266d246d5cb501f42492634253245.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/skavsvsh/developer.mozilla.org/en-US/docs/Web/API/HTMLelement/gotpointercapture_event.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goto/Keyword/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C++/C++.docset/Contents/Resources/Documents/en.cppreference.com/w/cpp/keyword/goto.html" arg="17" autocomplete="goto">
+            <title>goto</title>
+            <text type="copy">goto</text>
+            <text type="largetype">goto</text>
+            <subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle>
+            <subtitle>C++ - goto</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/bb04662f5149196fee3559c6d5da61dd.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/sgcbtxvt/en.cppreference.com/w/cpp/keyword/goto.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goto%20statement/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C++/C++.docset/Contents/Resources/Documents/en.cppreference.com/w/cpp/language/goto.html" arg="18" autocomplete="goto statement">
+            <title>goto statement</title>
+            <text type="copy">goto statement</text>
+            <text type="largetype">goto statement</text>
+            <subtitle mod="cmd">Open &quot;goto statement&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goto statement&quot; to clipboard</subtitle>
+            <subtitle>C++ - goto statement</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/10db2a9fb5f26a2cf880a0a763caa10c.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/sgcbtxvt/en.cppreference.com/w/cpp/language/goto.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goto/Keyword/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C/C.docset/Contents/Resources/Documents/en.cppreference.com/w/c/keyword/goto.html" arg="19" autocomplete="goto">
+            <title>goto</title>
+            <text type="copy">goto</text>
+            <text type="largetype">goto</text>
+            <subtitle mod="cmd">Open &quot;goto&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goto&quot; to clipboard</subtitle>
+            <subtitle>C - goto</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/76c074f6034f744bf9e1ef8778909349.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/nlbhguud/en.cppreference.com/w/c/keyword/goto.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goto%20statement/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/C/C.docset/Contents/Resources/Documents/en.cppreference.com/w/c/language/goto.html" arg="20" autocomplete="goto statement">
+            <title>goto statement</title>
+            <text type="copy">goto statement</text>
+            <text type="largetype">goto statement</text>
+            <subtitle mod="cmd">Open &quot;goto statement&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goto statement&quot; to clipboard</subtitle>
+            <subtitle>C - goto statement</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/66f330898d52daa84561d32486bf8ab1.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/nlbhguud/en.cppreference.com/w/c/language/goto.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Going%20further/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Rust/Rust.docset/Contents/Resources/Documents/doc.rust-lang.org/1.48.0/cargo/getting-started/first-steps.html%23//dash_ref_46413/Section/Going%2520further/0" arg="21" autocomplete="Going further">
+            <title>Going further</title>
+            <text type="copy">Going further</text>
+            <text type="largetype">Going further</text>
+            <subtitle mod="cmd">Open &quot;Going further&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Going further&quot; to clipboard</subtitle>
+            <subtitle>Rust - Going further</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/19f82a7dcd4ec9c593c35d0db353d3da.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/gtjopxwf/doc.rust-lang.org/1.48.0/cargo/getting-started/first-steps.html#//dash_ref_46413/Section/Going%20further/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://GoStmt/Type/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Go/Go.docset/Contents/Resources/Documents/golang.org/pkg/go/ast/index.html%23//dash_ref_GoStmt/Type/GoStmt/0" arg="22" autocomplete="GoStmt">
+            <title>GoStmt</title>
+            <text type="copy">GoStmt</text>
+            <text type="largetype">GoStmt</text>
+            <subtitle mod="cmd">Open &quot;GoStmt&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;GoStmt&quot; to clipboard</subtitle>
+            <subtitle>Go - go/ast.GoStmt</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/4b3592d25f1bd44118feee39ed162d2f.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/taoqungt/golang.org/pkg/go/ast/index.html#//dash_ref_GoStmt/Type/GoStmt/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-list/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-list.html" arg="23" autocomplete="go-list">
+            <title>go-list</title>
+            <text type="copy">go-list</text>
+            <text type="largetype">go-list</text>
+            <subtitle mod="cmd">Open &quot;go-list&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-list&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_list</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-list.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gox/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gox.html" arg="24" autocomplete="gox">
+            <title>gox</title>
+            <text type="copy">gox</text>
+            <text type="largetype">gox</text>
+            <subtitle mod="cmd">Open &quot;gox&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gox&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gox</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gox.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gops/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gops.html" arg="25" autocomplete="gops">
+            <title>gops</title>
+            <text type="copy">gops</text>
+            <text type="largetype">gops</text>
+            <subtitle mod="cmd">Open &quot;gops&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gops&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gops</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gops.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://godoc/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/godoc.html" arg="26" autocomplete="godoc">
+            <title>godoc</title>
+            <text type="copy">godoc</text>
+            <text type="largetype">godoc</text>
+            <subtitle mod="cmd">Open &quot;godoc&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;godoc&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - godoc</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/godoc.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://godot/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/godot.html" arg="27" autocomplete="godot">
+            <title>godot</title>
+            <text type="copy">godot</text>
+            <text type="largetype">godot</text>
+            <subtitle mod="cmd">Open &quot;godot&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;godot&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - godot</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/godot.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gofmt/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gofmt.html" arg="28" autocomplete="gofmt">
+            <title>gofmt</title>
+            <text type="copy">gofmt</text>
+            <text type="largetype">gofmt</text>
+            <subtitle mod="cmd">Open &quot;gofmt&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gofmt&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gofmt</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gofmt.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gotty/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gotty.html" arg="29" autocomplete="gotty">
+            <title>gotty</title>
+            <text type="copy">gotty</text>
+            <text type="largetype">gotty</text>
+            <subtitle mod="cmd">Open &quot;gotty&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gotty&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gotty</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gotty.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-bug/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-bug.html" arg="30" autocomplete="go-bug">
+            <title>go-bug</title>
+            <text type="copy">go-bug</text>
+            <text type="largetype">go-bug</text>
+            <subtitle mod="cmd">Open &quot;go-bug&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-bug&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_bug</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-bug.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-doc/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-doc.html" arg="31" autocomplete="go-doc">
+            <title>go-doc</title>
+            <text type="copy">go-doc</text>
+            <text type="largetype">go-doc</text>
+            <subtitle mod="cmd">Open &quot;go-doc&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-doc&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_doc</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-doc.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-env/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-env.html" arg="32" autocomplete="go-env">
+            <title>go-env</title>
+            <text type="copy">go-env</text>
+            <text type="largetype">go-env</text>
+            <subtitle mod="cmd">Open &quot;go-env&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-env&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_env</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-env.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-fix/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-fix.html" arg="33" autocomplete="go-fix">
+            <title>go-fix</title>
+            <text type="copy">go-fix</text>
+            <text type="largetype">go-fix</text>
+            <subtitle mod="cmd">Open &quot;go-fix&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-fix&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_fix</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-fix.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-mod/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-mod.html" arg="34" autocomplete="go-mod">
+            <title>go-mod</title>
+            <text type="copy">go-mod</text>
+            <text type="largetype">go-mod</text>
+            <subtitle mod="cmd">Open &quot;go-mod&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-mod&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_mod</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-mod.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gopass/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gopass.html" arg="35" autocomplete="gopass">
+            <title>gopass</title>
+            <text type="copy">gopass</text>
+            <text type="largetype">gopass</text>
+            <subtitle mod="cmd">Open &quot;gopass&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gopass&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gopass</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gopass.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gource/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gource.html" arg="36" autocomplete="gource">
+            <title>gource</title>
+            <text type="copy">gource</text>
+            <text type="largetype">gource</text>
+            <subtitle mod="cmd">Open &quot;gource&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gource&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gource</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gource.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://googler/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/googler.html" arg="37" autocomplete="googler">
+            <title>googler</title>
+            <text type="copy">googler</text>
+            <text type="largetype">googler</text>
+            <subtitle mod="cmd">Open &quot;googler&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;googler&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - googler</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/googler.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-build/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-build.html" arg="38" autocomplete="go-build">
+            <title>go-build</title>
+            <text type="copy">go-build</text>
+            <text type="largetype">go-build</text>
+            <subtitle mod="cmd">Open &quot;go-build&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-build&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_build</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-build.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-clean/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-clean.html" arg="39" autocomplete="go-clean">
+            <title>go-clean</title>
+            <text type="copy">go-clean</text>
+            <text type="largetype">go-clean</text>
+            <subtitle mod="cmd">Open &quot;go-clean&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-clean&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_clean</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-clean.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goreload/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/goreload.html" arg="40" autocomplete="goreload">
+            <title>goreload</title>
+            <text type="copy">goreload</text>
+            <text type="largetype">goreload</text>
+            <subtitle mod="cmd">Open &quot;goreload&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goreload&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - goreload</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/goreload.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://gocryptfs/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/gocryptfs.html" arg="41" autocomplete="gocryptfs">
+            <title>gocryptfs</title>
+            <text type="copy">gocryptfs</text>
+            <text type="largetype">gocryptfs</text>
+            <subtitle mod="cmd">Open &quot;gocryptfs&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;gocryptfs&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - gocryptfs</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/gocryptfs.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://goimports/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/goimports.html" arg="42" autocomplete="goimports">
+            <title>goimports</title>
+            <text type="copy">goimports</text>
+            <text type="largetype">goimports</text>
+            <subtitle mod="cmd">Open &quot;goimports&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;goimports&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - goimports</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/goimports.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-version/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-version.html" arg="43" autocomplete="go-version">
+            <title>go-version</title>
+            <text type="copy">go-version</text>
+            <text type="largetype">go-version</text>
+            <subtitle mod="cmd">Open &quot;go-version&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-version&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_version</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-version.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://go-generate/Command/file:///Users/moli/Library/Application%20Support/Dash/User%20Contributed/tldr%20pages/tldrpages.docset/Contents/Resources/Documents/common/go-generate.html" arg="44" autocomplete="go-generate">
+            <title>go-generate</title>
+            <text type="copy">go-generate</text>
+            <text type="largetype">go-generate</text>
+            <subtitle mod="cmd">Open &quot;go-generate&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;go-generate&quot; to clipboard</subtitle>
+            <subtitle>TLDR pages - go_generate</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/e51bc51584cc33b054e4b7649c7346c8.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/grcsmaaq/common/go-generate.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Mongo/Class/file:///Users/moli/Library/Application%20Support/Dash/DocSets/PHP/PHP.docset/Contents/Resources/Documents/www.php.net/manual/en/class.mongo.html" arg="45" autocomplete="Mongo">
+            <title>Mongo</title>
+            <text type="copy">Mongo</text>
+            <text type="largetype">Mongo</text>
+            <subtitle mod="cmd">Open &quot;Mongo&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Mongo&quot; to clipboard</subtitle>
+            <subtitle>PHP - Mongo</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/a302d804468ab624a7f42a2b07badfbd.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/xqhqwnlq/www.php.net/manual/en/class.mongo.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://STRALGO/Function/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Redis/Redis.docset/Contents/Resources/Documents/commands/stralgo.html" arg="46" autocomplete="STRALGO">
+            <title>STRALGO</title>
+            <text type="copy">STRALGO</text>
+            <text type="largetype">STRALGO</text>
+            <subtitle mod="cmd">Open &quot;STRALGO&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;STRALGO&quot; to clipboard</subtitle>
+            <subtitle>Redis - stralgo</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/333a19eceb3d319a6d4e6c18ebc291be.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/meshcnve/commands/stralgo.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://Quickstart:%20Compose%20and%20Django/Guide/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/compose/django.html" arg="47" autocomplete="Quickstart: Compose and Django">
+            <title>Quickstart: Compose and Django</title>
+            <text type="copy">Quickstart: Compose and Django</text>
+            <text type="largetype">Quickstart: Compose and Django</text>
+            <subtitle mod="cmd">Open &quot;Quickstart: Compose and Django&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;Quickstart: Compose and Django&quot; to clipboard</subtitle>
+            <subtitle>Docker - Quickstart: Compose and Django</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/b4403ac39103f5ecb7689d58507d462e.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/compose/django.html</quicklookurl>
+        </item>
+        <item uid="dash-advanced://More%20Compose%20documentation%20-%20Quickstart:%20Compose%20and%20Django/Section/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Docker/Docker.docset/Contents/Resources/Documents/docs.docker.com/compose/django.html%23//dash_ref_570/Section/More%2520Compose%2520documentation/0" arg="48" autocomplete="More Compose documentation - Quickstart: Compose and Django">
+            <title>More Compose documentation - Quickstart: Compose and Django</title>
+            <text type="copy">More Compose documentation - Quickstart: Compose and Django</text>
+            <text type="largetype">More Compose documentation - Quickstart: Compose and Django</text>
+            <subtitle mod="cmd">Open &quot;More Compose documentation - Quickstart: Compose and Django&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;More Compose documentation - Quickstart: Compose and Django&quot; to clipboard</subtitle>
+            <subtitle>Docker - More Compose documentation - Quickstart: Compose and Django</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/d9ff2f8e63dc9580e6d1bba71684be4d.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/futdshee/docs.docker.com/compose/django.html#//dash_ref_570/Section/More%20Compose%20documentation/0</quicklookurl>
+        </item>
+        <item uid="dash-advanced://String%20Algo/Library/file:///Users/moli/Library/Application%20Support/Dash/DocSets/Boost/Boost.docset/Contents/Resources/Documents/boost/doc/html/string_algo.html" arg="49" autocomplete="String Algo">
+            <title>String Algo</title>
+            <text type="copy">String Algo</text>
+            <text type="largetype">String Algo</text>
+            <subtitle mod="cmd">Open &quot;String Algo&quot; in browser</subtitle>
+            <subtitle mod="alt">Copy &quot;String Algo&quot; to clipboard</subtitle>
+            <subtitle>Boost - String Algo</subtitle>
+            <icon>/Users/moli/Library/Application Support/Dash/Data/Alfred/04bbb9f9f9eaf868e46f32ec3de9ec00.png</icon>
+            <quicklookurl>http://127.0.0.1:51737/Dash/aldpddqa/boost/doc/html/string_algo.html</quicklookurl>
+        </item>
+    </items>
+</output>
