@@ -23,7 +23,7 @@ func main() {
 		fmt.Println(err)
 	}
 	for _, item := range items {
-		fmt.Println(item.Title)
+		fmt.Println(item.Title, " - ", item.SubTitle)
 	}
 }
 
@@ -58,7 +58,7 @@ func parseItems(itemsRaw string) ([]*Item, error) {
 
 	xmlquery.FindEach(doc, "//item", func(_ int, node *xmlquery.Node) {
 		subTitle := ""
-		subTitles := node.Parent.SelectElements("subtitle")
+		subTitles := node.SelectElements("subtitle")
 		for _, t := range subTitles {
 			if len(t.Attr) == 0 {
 				subTitle = t.InnerText()
