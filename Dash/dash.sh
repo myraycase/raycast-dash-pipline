@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -w
+#!/bin/bash
 
 # Required parameters:
 # @raycast.title Dash document
@@ -6,7 +6,7 @@
 # @raycast.authorURL https://github.com/molizz
 # @raycast.description Find document
 
-# @raycast.mode fullOutput
+# @raycast.mode inline
 # @raycast.packageName System
 # @raycast.schemaVersion 1
 
@@ -15,5 +15,4 @@
 
 # @raycast.argument1 {"type":"text", "placeholder": "Query" }
 
-require 'rexml/document'
-include REXML
+pipline $1
