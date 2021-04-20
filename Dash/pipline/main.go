@@ -23,7 +23,8 @@ func main() {
 		fmt.Println(err)
 	}
 	for _, item := range items {
-		fmt.Println(item.Title, " - ", item.SubTitle)
+		fmt.Println(item.UID)
+		break
 	}
 }
 
@@ -67,11 +68,11 @@ func parseItems(itemsRaw string) ([]*Item, error) {
 		}
 
 		items = append(items, &Item{
-			UID:          node.SelectAttr("uid"),
-			Title:        node.SelectElement("title").InnerText(),
-			SubTitle:     subTitle,
-			Icon:         node.SelectElement("icon").InnerText(),
-			Quicklookurl: node.SelectElement("quicklookurl").InnerText(),
+			UID:      node.SelectAttr("uid"),
+			Title:    node.SelectElement("title").InnerText(),
+			SubTitle: subTitle,
+			Icon:     node.SelectElement("icon").InnerText(),
+			// Quicklookurl: node.SelectElement("quicklookurl").InnerText(),
 		})
 	})
 

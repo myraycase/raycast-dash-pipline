@@ -6,8 +6,7 @@
 # @raycast.authorURL https://github.com/molizz
 # @raycast.description Find document
 
-# @raycast.mode inline
-# @raycast.packageName System
+# @raycast.mode silent
 # @raycast.schemaVersion 1
 
 # Optional parameters:
@@ -15,4 +14,4 @@
 
 # @raycast.argument1 {"type":"text", "placeholder": "Query" }
 
-pipline $1
+open $($(dirname $0)/dash $1)
